@@ -1,4 +1,4 @@
-<p align="center">Entering the program, but already ❤️ the area.
+<p align="center">Beginner in the art of programming, but already ❤️ the area.
 
 From backend development using Python/Java to frontend development using HTML, CSS and JS, I am passionate about discovering new technologies and using them to create solutions for the most varied problems. Today, I'm a beginner developer eager to learn more and more!</p>&nbsp;
 
